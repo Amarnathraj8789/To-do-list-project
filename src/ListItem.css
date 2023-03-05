@@ -1,0 +1,27 @@
+.List{
+    color: white;
+    background-color: #bf07ac;
+    margin:10px auto;
+    height: 30px;
+    width: 90%;
+    border-radius: 10px;
+    position: relative;
+}
+
+.List p{
+    padding-left:10px;
+    padding-top:3px;
+}
+
+.List span{
+    position: absolute;
+    right:15PX;
+}
+
+.List p input{
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+    outline: none;
+}

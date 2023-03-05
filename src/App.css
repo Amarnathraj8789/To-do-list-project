@@ -1,0 +1,45 @@
+body {
+  background-color:rgb(172, 9, 126);
+}
+
+.container{
+  width: 275px;
+  height: 350px;
+  background-color: rgb(43, 2, 85);
+  margin: 2rem auto;
+  border-radius: 10px;
+  padding: 10px 0px;
+}
+
+.to-do-form {
+
+}
+
+.inputfield {
+  margin-left: 1rem;
+  background-color: rgb(21, 128, 21);
+  width: 150px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #f2f2f2;
+  padding: 2px 10px;
+}
+
+.btn {
+  color: #f2f2f2;
+  background-color:rgb(166, 166, 5);
+  width: 60px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  margin-left:10px;
+}
